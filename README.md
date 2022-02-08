@@ -1,4 +1,4 @@
-#  Hola Mund
+#  Hola Mundo
 Mi primer repositorio.
 
 Autor: Elizabeth Sevilla
